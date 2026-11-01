@@ -1,7 +1,11 @@
 {
   "v": 1,
-  "iat": "2026-11-01T22:10:58",
-  "kids": [],
-  "machines": [],
-  "sig": "2Yk-RPeyQBJ2OBRSD5_8i792ybtTJTJCQZ-G5o8vCMuGWF7KdfCZYlsyJp14GK0gQQ16dYkCBsnD5eHuIi1QDQ"
+  "iat": "2026-11-01T23:05:07",
+  "kids": [
+    "TRIAL-C2318AE2"
+  ],
+  "machines": [
+    "C2318AE25B0093E373CD692AFE54A593"
+  ],
+  "sig": "KLhaUOlccIozCfAon43oQ8UDHnAXMXPIPmca8pclOapcAOr37lISShdKxe4bHM3iVuRMHQPBtyvVCd8dw3iVCg"
 }
