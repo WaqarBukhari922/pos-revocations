@@ -1,12 +1,7 @@
 {
   "v": 1,
-  "iat": "2026-11-01T21:37:05",
-  "kids": [
-    "LIC-20261029-0002",
-    "TRIAL-C2318AE2"
-  ],
-  "machines": [
-    "C2318AE25B0093E373CD692AFE54A593"
-  ],
-  "sig": "3WoEpAiuReAB7b--hAoiwxpFbyY36A6iHGDcBeAOowemcEX_s-gO4TR3F9iexcfSN3NGo8JqKKHwQ3_DN7JHAQ"
+  "iat": "2026-11-01T22:10:58",
+  "kids": [],
+  "machines": [],
+  "sig": "2Yk-RPeyQBJ2OBRSD5_8i792ybtTJTJCQZ-G5o8vCMuGWF7KdfCZYlsyJp14GK0gQQ16dYkCBsnD5eHuIi1QDQ"
 }
