@@ -1,11 +1,7 @@
 {
   "v": 1,
-  "iat": "2026-11-01T23:17:21",
-  "kids": [
-    "TRIAL-F4591981"
-  ],
-  "machines": [
-    "F45919813C30323038EDAC16B307A35A"
-  ],
-  "sig": "eFT6zEfO473EGNPfcGmPVcBS5FqoLUtjD4eZeps_2TB1OgkXuad9WPBP-0XQCI_jPLCK2CRGjDg9SRAtNDnlBg"
+  "iat": "2026-11-01T23:21:59",
+  "kids": [],
+  "machines": [],
+  "sig": "6UeKitsB_eQ701h7n2OcD9ulhbTLbojS3QQKTBJTmA_TPiqGQKpcFnhFWy9M-uudE-8Qhes5PMioeoWNcJI-AA"
 }
